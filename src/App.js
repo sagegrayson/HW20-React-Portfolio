@@ -1,9 +1,13 @@
 // import logo from "./logo.svg";
 import "./styles/App.css";
-import Navbar from "./components/navbar";
+import Header from "./components/header";
 
 function App() {
-	return <Navbar />;
+	return (
+	<Header/>
+	)
+	
+	;
 }
 
 export default App;
