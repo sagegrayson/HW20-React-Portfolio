@@ -15,9 +15,10 @@ function App() {
 		<div>
 			<Header />
 			<About />
-			<Contact />
+			<div>hello</div>
+			{/* <Contact /> */}
 			<Landing />
-			<Work />
+			{/* <Work /> */}
 		</div>
 	);
 }
